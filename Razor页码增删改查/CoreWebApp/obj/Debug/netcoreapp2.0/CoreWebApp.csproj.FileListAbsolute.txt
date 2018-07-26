@@ -1,0 +1,11 @@
+E:\练习Demo\CoreWebApi\CoreWebApp\bin\Debug\netcoreapp2.0\CoreWebApp.deps.json
+E:\练习Demo\CoreWebApi\CoreWebApp\bin\Debug\netcoreapp2.0\CoreWebApp.runtimeconfig.json
+E:\练习Demo\CoreWebApi\CoreWebApp\bin\Debug\netcoreapp2.0\CoreWebApp.runtimeconfig.dev.json
+E:\练习Demo\CoreWebApi\CoreWebApp\bin\Debug\netcoreapp2.0\CoreWebApp.dll
+E:\练习Demo\CoreWebApi\CoreWebApp\bin\Debug\netcoreapp2.0\CoreWebApp.pdb
+E:\练习Demo\CoreWebApi\CoreWebApp\obj\Debug\netcoreapp2.0\CoreWebApp.csproj.CoreCompileInputs.cache
+E:\练习Demo\CoreWebApi\CoreWebApp\obj\Debug\netcoreapp2.0\CoreWebApp.AssemblyInfoInputs.cache
+E:\练习Demo\CoreWebApi\CoreWebApp\obj\Debug\netcoreapp2.0\CoreWebApp.AssemblyInfo.cs
+E:\练习Demo\CoreWebApi\CoreWebApp\obj\Debug\netcoreapp2.0\CoreWebApp.dll
+E:\练习Demo\CoreWebApi\CoreWebApp\obj\Debug\netcoreapp2.0\CoreWebApp.pdb
+E:\练习Demo\CoreWebApi\CoreWebApp\obj\Debug\netcoreapp2.0\CoreWebApp.csprojAssemblyReference.cache

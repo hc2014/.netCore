@@ -1,0 +1,27 @@
+﻿@page "{id:int}"
+
+@model CoreWebApp.Pages.Movies.DeleteModel
+
+@{
+
+}
+
+<strong>Delete Movie</strong>
+
+<p>确定要删除吗?</p>
+
+<form method="post">
+
+    <input type="hidden" asp-for="Movie.Title" />
+
+    <button type="submit">Yes</button>
+
+    <a asp-page="./Index">No</a>
+    <div>
+        <a asp-page="Edit">Back to List</a>
+    </div>
+
+    @section Scripts {
+        @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    }
+</form>
